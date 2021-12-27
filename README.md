@@ -1,3 +1,3 @@
-# KoneoppimisHT
+# Project for machine learning course
 
-Developed with Unreal Engine 4
+Unreal Engine 4 behavior tree demonstration.
